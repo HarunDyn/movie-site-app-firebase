@@ -1,3 +1,7 @@
+live site : https://hd-film-cenneti.netlify.app/
+
+![movi-site-app](https://github.com/HarunDyn/movie-site-app-firebase/blob/main/movie-site-app.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
